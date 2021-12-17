@@ -1,0 +1,42 @@
+INFO: 2021-12-17 04:22:34,277 reading csv file
+INFO: 2021-12-17 04:22:34,296 reading csv file
+DEBUG: 2021-12-17 04:22:34,319 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:22:35,148 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=England;areaType=nation&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:22:35,160 calling the API for covid data in England
+DEBUG: 2021-12-17 04:22:35,171 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:22:35,397 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=exeter;areaType=ltla&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:43:37,094 reading csv file
+INFO: 2021-12-17 04:43:37,105 reading csv file
+DEBUG: 2021-12-17 04:43:37,129 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:43:37,436 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=England;areaType=nation&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:43:37,443 calling the API for covid data in England
+DEBUG: 2021-12-17 04:43:37,447 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:43:37,599 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=exeter;areaType=ltla&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:44:07,548 reading csv file
+INFO: 2021-12-17 04:44:07,550 reading csv file
+DEBUG: 2021-12-17 04:44:07,557 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:44:07,765 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=England;areaType=nation&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:44:07,775 calling the API for covid data in England
+DEBUG: 2021-12-17 04:44:07,784 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:44:07,911 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=exeter;areaType=ltla&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:44:07,922 reading csv file
+INFO: 2021-12-17 04:45:13,123 reading csv file
+INFO: 2021-12-17 04:45:13,125 reading csv file
+DEBUG: 2021-12-17 04:45:13,132 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:45:13,420 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=England;areaType=nation&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:45:13,428 calling the API for covid data in England
+DEBUG: 2021-12-17 04:45:13,432 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:45:13,558 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=exeter;areaType=ltla&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:45:13,563 reading csv file
+INFO: 2021-12-17 04:45:13,565 scheduling an update for covid data
+DEBUG: 2021-12-17 04:45:13,570 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:45:13,676 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=England;areaType=nation&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:45:13,686 calling the API for covid data in England
+DEBUG: 2021-12-17 04:45:13,694 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:45:13,806 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=exeter;areaType=ltla&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 04:45:13,820 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:45:13,954 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=England;areaType=nation&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:45:13,960 calling the API for covid data in England
+DEBUG: 2021-12-17 04:45:13,969 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 04:45:14,074 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaName=exeter;areaType=ltla&structure=%7B%22date%22:%22date%22,%22name%22:%22areaName%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 04:45:14,079 reading csv file

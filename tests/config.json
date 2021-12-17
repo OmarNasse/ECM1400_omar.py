@@ -1,0 +1,15 @@
+{
+  "covid_data": [
+    {
+      "englandurl":"https://api.coronavirus.data.gov.uk/v1/data?filters=areaName=England;areaType=nation&structure=",
+      "exeterurl": "https://api.coronavirus.data.gov.uk/v1/data?filters=areaName=exeter;areaType=ltla&structure="
+    }
+  ],
+  "covid_news_data": [
+    {
+     "APIkey": "82ff2d9be6614ae58fdbbf2b450eee1b",
+      "baseurl": "https://newsapi.org/v2/top-headlines?"
+    }
+  ]
+
+}
